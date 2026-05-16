@@ -1,4 +1,4 @@
-# customer_segmentation
+# Customer Segmentation Analysis
 Customer Segmentation using K-Means
 
 ## Overview
